@@ -5,8 +5,8 @@ Me chamo Bruno Bonato, tenho 20 anos e sou natural de Niterói, Rio de Janeiro. 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="40" width="50" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="" height="40x" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="" height="40" width="60" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="" height="40" width="40" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
 ##
